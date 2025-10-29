@@ -1,2 +1,2 @@
 # Mcalba
-fontend mcalba
+frontend mcalba
